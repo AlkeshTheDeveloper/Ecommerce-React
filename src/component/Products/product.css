@@ -1,0 +1,19 @@
+
+
+.customdesign{
+
+width:15vw;
+display: flex;
+justify-content: center;
+align-items: center;
+flex-direction: column;
+margin:2rem;
+padding: 2rem;
+border-radius:15px;
+border: 2px solid silver;
+font-size: 13px;}
+
+.customdesign:hover{
+box-shadow: 2px 5px 2px 1px rgba(0, 0, 255, .2);
+
+}
